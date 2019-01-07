@@ -6,9 +6,9 @@ The idea behind is inspired from a wide-range of repositories and primarily targ
 
 Many thanks to:
 
-[weprovide/valet-plus](https://github.com/weprovide/valet-plus/)
-[meanbee/docker-magento2](https://github.com/meanbee/docker-magento2)
-[magento/magento-cloud-docker](https://github.com/magento/magento-cloud-docker)
+* [weprovide/valet-plus](https://github.com/weprovide/valet-plus/)
+* [meanbee/docker-magento2](https://github.com/meanbee/docker-magento2)
+* [magento/magento-cloud-docker](https://github.com/magento/magento-cloud-docker)
 
 
 # Prerequisites
